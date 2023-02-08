@@ -2,7 +2,7 @@
 This is a repo for the midterm assignment
 
 # Topic
-The topic for my midterm will be about whether schools should switch to only online learning or not
+The topic for my midterm will be about whether schools should switch to only online learning or not (this is all opinion based)
 
 https://github.com/Wall-Ethan/Wall_e_midterm/blob/yes-opinion/computers.jpeg
 
